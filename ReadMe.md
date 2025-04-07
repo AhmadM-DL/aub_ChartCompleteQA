@@ -10,7 +10,7 @@ Progress:
 
 ## Bar
 - [x] **Grouped** - Scraped 70
-- [ ] **Stacked**
+- [x] **Stacked** - Scraped 230
 - [ ] **Vanilla**
 - [ ] **Waterfall**
 
