@@ -3,57 +3,57 @@ Progress:
 # Visualizations
 
 ## Area
-- [x] **Overlapped**
-- [x] **Proportional**
-- [x] **Stacked**
-- [x] **Vanilla**
+- [ ] **Overlapped**
+- [ ] **Proportional**
+- [ ] **Stacked**
+- [ ] **Vanilla**
 
 ## Bar
-- [x] **Grouped**
-- [x] **Stacked**
-- [x] **Vanilla**
-- [x] **Waterfall**
+- [ ] **Grouped**
+- [ ] **Stacked**
+- [ ] **Vanilla**
+- [ ] **Waterfall**
 
 ## Circle
-- [x] **Donut**
-- [x] **Pie Chart**
+- [ ] **Donut**
+- [ ] **Pie Chart**
 
 ## Combination
-- [x] **Bar and Line**
+- [ ] **Bar and Line**
 
 ## Diagram
-- [x] **Flow**
-- [x] **Sankey**
-- [x] **Timeline**
+- [ ] **Flow**
+- [ ] **Sankey**
+- [ ] **Timeline**
 
 ## Distribution
-- [x] **Box and Whisker**
-- [x] **Curve**
-- [x] **Histogram**
+- [ ] **Box and Whisker**
+- [ ] **Curve**
+- [ ] **Histogram**
 
 ## Line
-- [x] **Contour**
-- [x] **Parallel Coordinates**
-- [x] **Radar**
-- [x] **Stacked**
-- [x] **Surface**
-- [x] **Vanilla**
+- [ ] **Contour**
+- [ ] **Parallel Coordinates**
+- [ ] **Radar**
+- [ ] **Stacked**
+- [ ] **Surface**
+- [ ] **Vanilla**
 
 ## Map
-- [x] **Choropleth**
-- [x] **Contour**
+- [ ] **Choropleth**
+- [ ] **Contour**
 
 ## Matrix
-- [x] **Heat Map**
+- [ ] **Heat Map**
 
 ## Point
-- [x] **Bubble**
-- [x] **Scatter**
-- [x] **Stacked Bubble**
-- [x] **Stacked Scatter**
+- [ ] **Bubble**
+- [ ] **Scatter**
+- [ ] **Stacked Bubble**
+- [ ] **Stacked Scatter**
 
 ## Text
-- [x] **Wordcloud**
+- [ ] **Wordcloud**
 
 ## Tree
-- [x] **Tree Map**
+- [ ] **Tree Map**
