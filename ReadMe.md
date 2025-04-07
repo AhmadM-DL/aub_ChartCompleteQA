@@ -11,7 +11,7 @@ Progress:
 ## Bar
 - [x] **Grouped** - Scraped 70
 - [x] **Stacked** - Scraped 230
-- [ ] **Vanilla**
+- [X] **Vanilla** - Scraped 226
 - [ ] **Waterfall**
 
 ## Circle
