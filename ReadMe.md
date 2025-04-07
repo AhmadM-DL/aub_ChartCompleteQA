@@ -15,7 +15,7 @@ Progress:
 - [ ] **Waterfall**
 
 ## Circle
-- [x] **Donut** - Scraped 46
+- [ ] **Donut** - Scraped 46
 - [ ] **Pie Chart**
 
 ## Combination
