@@ -5,7 +5,7 @@ Progress:
 ## Area
 - [ ] **Overlapped**
 - [ ] **Proportional**
-- [ ] **Stacked**
+- [x] **Stacked** - Scraped 115
 - [ ] **Vanilla**
 
 ## Bar
