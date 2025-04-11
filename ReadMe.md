@@ -35,7 +35,7 @@ Progress:
 - [ ] **Contour**
 - [ ] **Parallel Coordinates**
 - [ ] **Radar**
-- [ ] **Stacked**
+- [x] **Stacked** - Scraped 149
 - [ ] **Surface**
 - [ ] **Vanilla**
 
