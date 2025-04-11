@@ -40,7 +40,7 @@ Progress:
 - [x] **Vanilla** - Scraped 90
 
 ## Map
-- [ ] **Choropleth**
+- [x] **Choropleth** - Scraped 178
 - [ ] **Contour**
 
 ## Matrix
