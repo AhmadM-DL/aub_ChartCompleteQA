@@ -37,7 +37,7 @@ Progress:
 - [ ] **Radar**
 - [x] **Stacked** - Scraped 149
 - [ ] **Surface**
-- [ ] **Vanilla**
+- [x] **Vanilla** - Scraped 90
 
 ## Map
 - [ ] **Choropleth**
